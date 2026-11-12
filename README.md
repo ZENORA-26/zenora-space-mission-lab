@@ -1,6 +1,6 @@
-# ZENORA Space Mission Lab — Version 5.4
+# ZENORA Space Mission Lab 
 
-## What's new in 5.4
+## What's new in 
 - ZENORA logo and full brand name are displayed at the top of the left navigation sidebar.
 - First-time visitors are welcomed with an eight-step guided tutorial.
 - A persistent “New here? Take the tour” button lets visitors replay the tutorial.
